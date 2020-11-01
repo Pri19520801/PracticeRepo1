@@ -7,10 +7,6 @@ v2- Add comment in master branch and commit changes
 v3 master
 v2 - Add comments in nov2020 branch to test rebase
 v3 - nov2020
-
-<<<<<<< HEAD
-v5 nov2020 tets
-=======
 v4 nov2020
 v4 master
->>>>>>> 686fc589ba35410f01861e3e27449b21b593d5a8
+v5 nov2020 tets
